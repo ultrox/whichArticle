@@ -1,0 +1,20 @@
+{
+  "name": "@ma.vu/whichArticle",
+  "version": "1.0.0",
+  "description": "Determin which article word has in german",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultrox/whichArticle.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": ["whichArticle.js"],
+  "main": "whichArticle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marko Vujanic",
+  "license": "MIT"
+}
