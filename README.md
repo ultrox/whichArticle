@@ -1,6 +1,6 @@
 ## Install
 
-`npm install @ma.vu/whichArticle`
+`npm install @ma.vu/which-article`
 
 ## What is this
 
@@ -10,8 +10,8 @@ der/das/die.
 Currently it determine article based on Seasons, Days, Month, and word endings.
 
 ### When word is a Day
-```javascript
-const whichArticle = require('@ma.vu/whichArticle')
+```
+const whichArticle = require('@ma.vu/which-article')
 whichArticle('Freitag') 
 /*
   { gender: 'der', msg: 'day_month' }
@@ -20,8 +20,8 @@ whichArticle('Freitag')
 
 ### When word ends with endings typical for das articles
 ```javascript
+const whichArticle = require('@ma.vu/which-article')
 whichArticle('Mädchen') 
-const whichArticle = require('@ma.vu/whichArticle')
 /*
   { gender: 'das', msg: 'endings', endings: ['chen', 'lein', 'ment', 'tum', 'ma', 'um'] }
 */
@@ -29,7 +29,7 @@ const whichArticle = require('@ma.vu/whichArticle')
 ### When word can't be determined
 
 ```javascript
-const whichArticle = require('@ma.vu/whichArticle')
+const whichArticle = require('@ma.vu/which-article')
 whichArticle('Brief')
 /*
   null

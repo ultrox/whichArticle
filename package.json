@@ -1,6 +1,6 @@
 {
-  "name": "@ma.vu/whichArticle",
-  "version": "1.0.0",
+  "name": "@ma.vu/which-article",
+  "version": "1.0.1",
   "description": "Determin which article word has in german",
   "repository": {
     "type": "git",
