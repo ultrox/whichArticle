@@ -39,3 +39,4 @@ whichArticle('Brief')
 [DKH Sprachschule](https://www.youtube.com/watch?v=rixj4Hs61RY)
 
 - TODO: Himmelsrichtung: der Norden,der Süden, der Osten der Westen
+- TODO: Die Niederschlagen: der Regen der Schnee der Hagel
