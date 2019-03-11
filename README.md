@@ -37,3 +37,5 @@ whichArticle('Brief')
 ```
 ## Sources
 [DKH Sprachschule](https://www.youtube.com/watch?v=rixj4Hs61RY)
+
+- TODO: Himmelsrichtung: der Norden,der Süden, der Osten der Westen
